@@ -1,7 +1,7 @@
 # nba_shot_chart_map
 Hot Fire!! Pretty Visuals!! This code is used to generate a shot chart for NBA player Stephen Curry's shots in the 2015-16 NBA regular season. The code uses the NBA API and matplotlib library to create the chart.
 
-# How to use the code
+## How to use this code
 This code can be used to generate a shot chart for any NBA player for any NBA season.
 ```bash
 pip install nba_api requests pandas matplotlib

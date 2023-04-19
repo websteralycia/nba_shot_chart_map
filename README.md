@@ -12,17 +12,6 @@ Once you have the libraries installed and the API key, you can simply replace th
 You can also modify the create_court() function to change the color and style of the basketball court.
 
 
-           o
- /|   o         o
- \|=--            o
-    ##
-                    \\
-                 /   \O
-                O_/   T
-                T    /|
-                |\  | |
- _______________|_|________
-
-------------------------------------------------
+![image](https://user-images.githubusercontent.com/127455781/233170526-d60e4017-af76-403c-99a0-876ce2cf9274.png)
 
 

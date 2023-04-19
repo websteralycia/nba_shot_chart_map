@@ -1,6 +1,6 @@
 # nba_shot_chart_map
 Hot Fire!! Pretty Visuals!! 
-This code is used to generate a shot chart for NBA player Stephen Curry's shots in the 2015-16 NBA regular season. 
+Generates a shot chart for NBA player Stephen Curry during his 2015-16 NBA regular season. 
 
 ### How to use this code
 This code can be used to generate a shot chart for any NBA player. In the script above, Stephen Curry is used as an example. 

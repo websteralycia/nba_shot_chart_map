@@ -2,8 +2,8 @@
 Hot Fire!! Pretty Visuals!! 
 This code is used to generate a shot chart for NBA player Stephen Curry's shots in the 2015-16 NBA regular season. 
 
-## How to use this code
-This code can be used to generate a shot chart for any NBA player for any NBA season. In the script above, Stephen Curry is used there as an example. 
+### How to use this code
+This code can be used to generate a shot chart for any NBA player. In the script above, Stephen Curry is used as an example. 
 
 Simply replace the player name, team name, season and other parameters in the shotchartdetail.ShotChartDetail() function to generate the shot chart for your desired player.
 

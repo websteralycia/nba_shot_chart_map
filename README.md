@@ -13,7 +13,5 @@ You can also modify the create_court() function to change the color and style of
 ![image](https://user-images.githubusercontent.com/127455781/233170526-d60e4017-af76-403c-99a0-876ce2cf9274.png)
 
 
-![image](https://user-images.githubusercontent.com/127455781/233641311-5b1e4444-52a6-4535-8862-fc83383ba981.png)
-
 
 
